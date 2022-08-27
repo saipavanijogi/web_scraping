@@ -1,0 +1,12 @@
+{
+    "id": "4453",
+    "parent_exercise_id": null,
+    "name": "Variables",
+    "slug": "python__variables_md",
+    "sequence_num": 100,
+    "review_type": "manual",
+    "solution": null,
+    "content": "[\"{\\\"type\\\":\\\"markdown\\\",\\\"value\\\":\\\"variables_key1[variables_key2](https://saral.navgurukul.org/course/102)\\\\n\\\\n\\\\n```\\\\ncourse_is_clear=True\\\\n```\\\\nvariables_key3\\\\n\\\"}\"]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/python/variables.md"
+}
